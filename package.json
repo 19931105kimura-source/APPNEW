@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "iconv-lite": "^0.7.2",
+    "multer": "^2.0.2",
+    "ws": "^8.19.0"
+  }
+}

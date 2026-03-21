@@ -1,0 +1,1236 @@
+{
+  "version": 2,
+  "updatedAt": "2026-03-21T10:27:45.193Z",
+  "items": [
+    {
+      "productId": "p_22",
+      "name": "鏡月",
+      "variantLabel": "鏡月グリーン",
+      "type": "normal",
+      "price": 5000,
+      "category": "焼酎",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_17",
+      "name": "鏡月",
+      "variantLabel": "鏡月プレミアム（20度）",
+      "type": "normal",
+      "price": 6000,
+      "category": "焼酎",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_3",
+      "name": "鏡月",
+      "variantLabel": "アセロラ鏡月",
+      "type": "normal",
+      "price": 5000,
+      "category": "焼酎",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_232",
+      "name": "キンミヤ",
+      "variantLabel": "キンミヤ　20度",
+      "type": "normal",
+      "price": 5000,
+      "category": "焼酎",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_19",
+      "name": "チャミスル",
+      "variantLabel": "チャミスル　白（20度）",
+      "type": "normal",
+      "price": 5000,
+      "category": "焼酎",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_20",
+      "name": "茉莉花",
+      "variantLabel": "茉莉花",
+      "type": "normal",
+      "price": 6000,
+      "category": "焼酎",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_233",
+      "name": "黒霧島",
+      "variantLabel": "黒霧島　720ml",
+      "type": "normal",
+      "price": 6000,
+      "category": "芋焼酎",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_234",
+      "name": "一刻者",
+      "variantLabel": "一刻者　720ml",
+      "type": "normal",
+      "price": 8000,
+      "category": "芋焼酎",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_235",
+      "name": "DAIYAME",
+      "variantLabel": "ダイヤメ　900ml",
+      "type": "normal",
+      "price": 8000,
+      "category": "芋焼酎",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_130",
+      "name": "富乃宝山",
+      "variantLabel": "富乃宝山",
+      "type": "normal",
+      "price": 10000,
+      "category": "芋焼酎",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_131",
+      "name": "魔王",
+      "variantLabel": "魔王",
+      "type": "normal",
+      "price": 40000,
+      "category": "芋焼酎",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_10",
+      "name": "知心剣",
+      "variantLabel": "知心剣",
+      "type": "normal",
+      "price": 6000,
+      "category": "麦焼酎",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_236",
+      "name": "吉四六",
+      "variantLabel": "吉四六　瓶",
+      "type": "normal",
+      "price": 12000,
+      "category": "麦焼酎",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_237",
+      "name": "吉四六",
+      "variantLabel": "吉四六　陶器",
+      "type": "normal",
+      "price": 16000,
+      "category": "麦焼酎",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_134",
+      "name": "柚子小町",
+      "variantLabel": "柚子小町",
+      "type": "normal",
+      "price": 8000,
+      "category": "リキュール",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_137",
+      "name": "鍛高譚",
+      "variantLabel": "鍛高譚",
+      "type": "normal",
+      "price": 5000,
+      "category": "紫蘇焼酎",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_138",
+      "name": "鍛高譚",
+      "variantLabel": "鍛高譚　梅酒",
+      "type": "normal",
+      "price": 7000,
+      "category": "紫蘇焼酎",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_238",
+      "name": "モエ・エ・シャンドン",
+      "variantLabel": "モエ・ブリュット・アンぺリアル",
+      "type": "normal",
+      "price": 25000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_239",
+      "name": "モエ・エ・シャンドン",
+      "variantLabel": "モエ・ブリュットアンぺリアル・ロゼ",
+      "type": "normal",
+      "price": 28000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_240",
+      "name": "モエ・エ・シャンドン",
+      "variantLabel": "モエ・ネクターアンぺリアル",
+      "type": "normal",
+      "price": 30000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_241",
+      "name": "モエ・エ・シャンドン",
+      "variantLabel": "モエ・アイスアンぺリアル",
+      "type": "normal",
+      "price": 35000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_242",
+      "name": "モエ・エ・シャンドン",
+      "variantLabel": "モエ・アイスアンぺリアル・ロゼ",
+      "type": "normal",
+      "price": 40000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_243",
+      "name": "モエ・エ・シャンドン",
+      "variantLabel": "モエ・ネクターアンぺリアル・ロゼ",
+      "type": "normal",
+      "price": 40000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_244",
+      "name": "ヴーヴクリコ",
+      "variantLabel": "ヴーヴ・イエローラベル・ブリュット",
+      "type": "normal",
+      "price": 25000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_245",
+      "name": "ヴーヴクリコ",
+      "variantLabel": "ヴーヴ・ホワイトラベル・ドゥミセック",
+      "type": "normal",
+      "price": 30000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_246",
+      "name": "ヴーヴクリコ",
+      "variantLabel": "ヴーヴ・ローズラベル・ブリュット",
+      "type": "normal",
+      "price": 32000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_247",
+      "name": "ヴーヴクリコ",
+      "variantLabel": "ヴーヴ・リッチオンアイス",
+      "type": "normal",
+      "price": 33000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_84",
+      "name": "ヴーヴクリコ",
+      "variantLabel": "リッチオンアイスロゼ",
+      "type": "normal",
+      "price": 35000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_85",
+      "name": "ヴーヴクリコ",
+      "variantLabel": "ヴィンテージ",
+      "type": "normal",
+      "price": 40000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_86",
+      "name": "ヴーヴクリコ",
+      "variantLabel": "ヴィンテージロゼ",
+      "type": "normal",
+      "price": 45000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_87",
+      "name": "ヴィクトワール",
+      "variantLabel": "ブランドブラン",
+      "type": "normal",
+      "price": 25000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_88",
+      "name": "ヴィクトワール",
+      "variantLabel": "オークビンテージブラック",
+      "type": "normal",
+      "price": 70000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_89",
+      "name": "クリュッグ",
+      "variantLabel": "グランドキュベ",
+      "type": "normal",
+      "price": 120000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_90",
+      "name": "クリュッグ",
+      "variantLabel": "グランドロゼ",
+      "type": "normal",
+      "price": 200000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_91",
+      "name": "ペリエ・ジュエ",
+      "variantLabel": "グランブ　リュット",
+      "type": "normal",
+      "price": 30000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_92",
+      "name": "ペリエ・ジュエ",
+      "variantLabel": "ブランドブラン",
+      "type": "normal",
+      "price": 50000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_93",
+      "name": "ペリエ・ジュエ",
+      "variantLabel": "ベルエポック　ブラン",
+      "type": "normal",
+      "price": 100000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_94",
+      "name": "ペリエ・ジュエ",
+      "variantLabel": "ベルエポック　ロゼ",
+      "type": "normal",
+      "price": 180000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_95",
+      "name": "ペリエ・ジュエ",
+      "variantLabel": "ベルエポック　ブランドブラン",
+      "type": "normal",
+      "price": 350000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_96",
+      "name": "ルイ・ロデレール",
+      "variantLabel": "クリスタル",
+      "type": "normal",
+      "price": 200000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_97",
+      "name": "ルイ・ロデレール",
+      "variantLabel": "クリスタル　ロゼ",
+      "type": "normal",
+      "price": 350000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_98",
+      "name": "ドン・ペリニョン",
+      "variantLabel": "ブラン",
+      "type": "normal",
+      "price": 100000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_99",
+      "name": "ドン・ペリニョン",
+      "variantLabel": "ルミナス",
+      "type": "normal",
+      "price": 120000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_100",
+      "name": "ドン・ペリニョン",
+      "variantLabel": "ロゼ",
+      "type": "normal",
+      "price": 200000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_101",
+      "name": "ドン・ペリニョン",
+      "variantLabel": "ゴールド",
+      "type": "normal",
+      "price": 500000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_102",
+      "name": "ソウメイ",
+      "variantLabel": "ブリュット",
+      "type": "normal",
+      "price": 100000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_103",
+      "name": "ソウメイ",
+      "variantLabel": "ナチュール",
+      "type": "normal",
+      "price": 160000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_104",
+      "name": "ソウメイ",
+      "variantLabel": "ロゼ",
+      "type": "normal",
+      "price": 170000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_105",
+      "name": "ソウメイ",
+      "variantLabel": "プラチナ",
+      "type": "normal",
+      "price": 300000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_106",
+      "name": "ソウメイ",
+      "variantLabel": "ブラック",
+      "type": "normal",
+      "price": 400000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_107",
+      "name": "ソウメイ",
+      "variantLabel": "レッド",
+      "type": "normal",
+      "price": 1000000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_108",
+      "name": "ランボルギーニ",
+      "variantLabel": "ブリュット　ブラックラベル",
+      "type": "normal",
+      "price": 60000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_109",
+      "name": "ランボルギーニ",
+      "variantLabel": "エクストラドライ　ブルーラベル",
+      "type": "normal",
+      "price": 60000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_110",
+      "name": "ランボルギーニ",
+      "variantLabel": "ドゥミセック　オレンジラベル",
+      "type": "normal",
+      "price": 60000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_111",
+      "name": "アルマン・ド・ブリニャック",
+      "variantLabel": "ゴールド",
+      "type": "normal",
+      "price": 180000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_112",
+      "name": "アルマン・ド・ブリニャック",
+      "variantLabel": "ロゼ",
+      "type": "normal",
+      "price": 300000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_113",
+      "name": "アルマン・ド・ブリニャック",
+      "variantLabel": "レッド",
+      "type": "normal",
+      "price": 350000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_114",
+      "name": "アルマン・ド・ブリニャック",
+      "variantLabel": "グリーン",
+      "type": "normal",
+      "price": 350000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_115",
+      "name": "アルマン・ド・ブリニャック",
+      "variantLabel": "シルバー",
+      "type": "normal",
+      "price": 500000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_116",
+      "name": "エンジェル",
+      "variantLabel": "ブラック",
+      "type": "normal",
+      "price": 140000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_117",
+      "name": "エンジェル",
+      "variantLabel": "ロゼホワイト",
+      "type": "normal",
+      "price": 200000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_118",
+      "name": "エンジェル",
+      "variantLabel": "ドゥミセック",
+      "type": "normal",
+      "price": 230000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_119",
+      "name": "エンジェル",
+      "variantLabel": "ドゥミセックロゼ",
+      "type": "normal",
+      "price": 260000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_120",
+      "name": "ガードン",
+      "variantLabel": "ホワイトボトル",
+      "type": "normal",
+      "price": 80000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_121",
+      "name": "ノンアルコールシャンパン",
+      "variantLabel": "1688　グランブラン",
+      "type": "normal",
+      "price": 30000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_122",
+      "name": "ノンアルコールシャンパン",
+      "variantLabel": "1688　グランロゼ",
+      "type": "normal",
+      "price": 30000,
+      "category": "シャンパン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_141",
+      "name": "八海山",
+      "variantLabel": "大吟醸",
+      "type": "normal",
+      "price": 10000,
+      "category": "日本酒",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_144",
+      "name": "知多",
+      "variantLabel": "知多",
+      "type": "normal",
+      "price": 30000,
+      "category": "ジャパン　ウィスキー",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_146",
+      "name": "白州",
+      "variantLabel": "白州　NV",
+      "type": "normal",
+      "price": 60000,
+      "category": "ジャパン　ウィスキー",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_148",
+      "name": "山崎",
+      "variantLabel": "山崎　NV",
+      "type": "normal",
+      "price": 60000,
+      "category": "ジャパン　ウィスキー",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_149",
+      "name": "山崎",
+      "variantLabel": "山崎　12年",
+      "type": "normal",
+      "price": 100000,
+      "category": "ジャパン　ウィスキー",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_150",
+      "name": "竹鶴",
+      "variantLabel": "竹鶴",
+      "type": "normal",
+      "price": 60000,
+      "category": "ジャパン　ウィスキー",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_151",
+      "name": "余市",
+      "variantLabel": "余市",
+      "type": "normal",
+      "price": 60000,
+      "category": "ジャパン　ウィスキー",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_153",
+      "name": "響",
+      "variantLabel": "響　BC",
+      "type": "normal",
+      "price": 80000,
+      "category": "ジャパン　ウィスキー",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_156",
+      "name": "シーバスリーガル",
+      "variantLabel": "シーバスリーガル12年",
+      "type": "normal",
+      "price": 15000,
+      "category": "スコッチ　ウィスキー",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_157",
+      "name": "シーバスリーガル",
+      "variantLabel": "ミズナラ12年",
+      "type": "normal",
+      "price": 20000,
+      "category": "スコッチ　ウィスキー",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_159",
+      "name": "ジョニーウォーカー",
+      "variantLabel": "ゴールドラベル",
+      "type": "normal",
+      "price": 25000,
+      "category": "スコッチ　ウィスキー",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_165",
+      "name": "ジョニーウォーカー",
+      "variantLabel": "ブールーラベル",
+      "type": "normal",
+      "price": 100000,
+      "category": "スコッチ　ウィスキー",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_161",
+      "name": "ラフロイグ",
+      "variantLabel": "ラフロイグ10年",
+      "type": "normal",
+      "price": 35000,
+      "category": "スコッチ　ウィスキー",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_163",
+      "name": "バランタイン",
+      "variantLabel": "バランタイン17年",
+      "type": "normal",
+      "price": 35000,
+      "category": "スコッチ　ウィスキー",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_168",
+      "name": "ジャックダニエル",
+      "variantLabel": "ジャックダニエル　ブラック",
+      "type": "normal",
+      "price": 10000,
+      "category": "バーボン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_170",
+      "name": "フォアローゼス",
+      "variantLabel": "フォアローゼス　ブラック",
+      "type": "normal",
+      "price": 20000,
+      "category": "バーボン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_171",
+      "name": "フォアローゼス",
+      "variantLabel": "フォアローゼス　プラチナ",
+      "type": "normal",
+      "price": 45000,
+      "category": "バーボン",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_174",
+      "name": "ヘネシー",
+      "variantLabel": "ブランデーVSOP",
+      "type": "normal",
+      "price": 60000,
+      "category": "ブランデー",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_175",
+      "name": "ヘネシー",
+      "variantLabel": "ヘネシーXO",
+      "type": "normal",
+      "price": 120000,
+      "category": "ブランデー",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_177",
+      "name": "マーテル",
+      "variantLabel": "マーテル　コルトンブルー",
+      "type": "normal",
+      "price": 100000,
+      "category": "ブランデー",
+      "printTarget": "register",
+      "isActive": true
+    },
+    {
+      "productId": "p_202",
+      "name": "お茶系",
+      "variantLabel": "烏龍茶ピッチャー",
+      "type": "normal",
+      "price": 2000,
+      "category": "ピッチャー",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_203",
+      "name": "お茶系",
+      "variantLabel": "緑茶ピッチャー",
+      "type": "normal",
+      "price": 2000,
+      "category": "ピッチャー",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_204",
+      "name": "お茶系",
+      "variantLabel": "ジャスミン茶ピッチャー",
+      "type": "normal",
+      "price": 3000,
+      "category": "ピッチャー",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_182",
+      "name": "お茶系",
+      "variantLabel": "麦茶",
+      "type": "normal",
+      "price": 3000,
+      "category": "ピッチャー",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_183",
+      "name": "お茶系",
+      "variantLabel": "爽健美茶",
+      "type": "normal",
+      "price": 3000,
+      "category": "ピッチャー",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_184",
+      "name": "お茶系",
+      "variantLabel": "午後の紅茶　無糖",
+      "type": "normal",
+      "price": 3500,
+      "category": "ピッチャー",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_185",
+      "name": "お茶系",
+      "variantLabel": "午後の紅茶　レモンティー",
+      "type": "normal",
+      "price": 3500,
+      "category": "ピッチャー",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_191",
+      "name": "お茶系",
+      "variantLabel": "そば茶",
+      "type": "normal",
+      "price": 3500,
+      "category": "ピッチャー",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_192",
+      "name": "お茶系",
+      "variantLabel": "梅昆布茶",
+      "type": "normal",
+      "price": 3500,
+      "category": "ピッチャー",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_193",
+      "name": "お茶系",
+      "variantLabel": "トウモロコシひげ茶",
+      "type": "normal",
+      "price": 3500,
+      "category": "ピッチャー",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_194",
+      "name": "お茶系",
+      "variantLabel": "黒豆茶",
+      "type": "normal",
+      "price": 3500,
+      "category": "ピッチャー",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_187",
+      "name": "果実系",
+      "variantLabel": "オレンジ",
+      "type": "normal",
+      "price": 3500,
+      "category": "ピッチャー",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_188",
+      "name": "果実系",
+      "variantLabel": "アセロラ",
+      "type": "normal",
+      "price": 3500,
+      "category": "ピッチャー",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_189",
+      "name": "果実系",
+      "variantLabel": "ピーチネクター",
+      "type": "normal",
+      "price": 3500,
+      "category": "ピッチャー",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_190",
+      "name": "果実系",
+      "variantLabel": "トマト",
+      "type": "normal",
+      "price": 3500,
+      "category": "ピッチャー",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_200",
+      "name": "赤ワイン",
+      "variantLabel": "赤ワイン",
+      "type": "normal",
+      "price": 0,
+      "category": "赤ワイン",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_230",
+      "name": "赤ワイン",
+      "variantLabel": "",
+      "type": "normal",
+      "price": 0,
+      "category": "赤ワイン",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_201",
+      "name": "白ワイン",
+      "variantLabel": "白ワイン",
+      "type": "normal",
+      "price": 0,
+      "category": "白ワイン",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_197",
+      "name": "ソフトドリンク",
+      "variantLabel": "瓶コーラ",
+      "type": "normal",
+      "price": 1000,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_198",
+      "name": "ソフトドリンク",
+      "variantLabel": "瓶ジンジャー",
+      "type": "normal",
+      "price": 1000,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_199",
+      "name": "瓶炭酸",
+      "variantLabel": "瓶炭酸",
+      "type": "normal",
+      "price": 1000,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_206",
+      "name": "果実酢",
+      "variantLabel": "リンゴ酢",
+      "type": "normal",
+      "price": 1200,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_208",
+      "name": "瓶ビール",
+      "variantLabel": "アサヒスーパードライ",
+      "type": "normal",
+      "price": 2000,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_209",
+      "name": "プレミアムハイボール",
+      "variantLabel": "プレミアムハイボール",
+      "type": "normal",
+      "price": 2000,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_210",
+      "name": "梅干し",
+      "variantLabel": "梅干し",
+      "type": "normal",
+      "price": 1500,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_211",
+      "name": "カットレモン",
+      "variantLabel": "カットレモン",
+      "type": "normal",
+      "price": 1500,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_217",
+      "name": "ショット",
+      "variantLabel": "1800アネホ",
+      "type": "normal",
+      "price": 3500,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_218",
+      "name": "ショット",
+      "variantLabel": "1800クリスタリーノ",
+      "type": "normal",
+      "price": 4000,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_219",
+      "name": "ショット",
+      "variantLabel": "テキーラボール",
+      "type": "normal",
+      "price": 2500,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_220",
+      "name": "ショット",
+      "variantLabel": "コカボム",
+      "type": "normal",
+      "price": 3000,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_222",
+      "name": "カクテルシロップ",
+      "variantLabel": "レモン",
+      "type": "normal",
+      "price": 1200,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_223",
+      "name": "カクテルシロップ",
+      "variantLabel": "ライム",
+      "type": "normal",
+      "price": 1200,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_225",
+      "name": "カクテル",
+      "variantLabel": "グラスカクテル",
+      "type": "normal",
+      "price": 1500,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_226",
+      "name": "カクテル",
+      "variantLabel": "オペレーター",
+      "type": "normal",
+      "price": 2000,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_227",
+      "name": "カクテル",
+      "variantLabel": "オペレーターダブル",
+      "type": "normal",
+      "price": 4000,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_228",
+      "name": "カクテル",
+      "variantLabel": "キティ",
+      "type": "normal",
+      "price": 2000,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    },
+    {
+      "productId": "p_229",
+      "name": "カクテル",
+      "variantLabel": "キティダブル",
+      "type": "normal",
+      "price": 4000,
+      "category": "その他",
+      "printTarget": "kitchen",
+      "isActive": true
+    }
+  ]
+}

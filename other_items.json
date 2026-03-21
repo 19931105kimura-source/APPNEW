@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "category": "本指名料",
+      "name": "本指名",
+      "price": 3000
+    },
+    {
+      "category": "場内指名料",
+      "name": "場内指名",
+      "price": 3000
+    },
+    {
+      "category": "チャーム",
+      "name": "チャーム",
+      "price": 1500
+    }
+  ]
+}

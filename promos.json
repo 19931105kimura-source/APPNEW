@@ -1,0 +1,50 @@
+{
+  "top": [
+    {
+      "id": "1773682848722",
+      "title": " ",
+      "sub": "",
+      "imageUrl": "http://192.168.11.8:3000/uploads/promos/promo_1773682839368.jpg",
+      "focalX": -0.04886117826695513,
+      "focalY": 0.38437470177503497,
+      "linkType": "none",
+      "category": null,
+      "brand": null
+    },
+    {
+      "id": "1773918250869",
+      "title": " ",
+      "sub": "",
+      "imageUrl": "http://192.168.11.8:3000/uploads/promos/promo_1773918240632.JPG",
+      "focalX": 0.0032048586116240063,
+      "focalY": -0.6089324277800383,
+      "linkType": "none",
+      "category": null,
+      "brand": null
+    }
+  ],
+  "bottom": [
+    {
+      "id": "1769532918090",
+      "title": " ",
+      "sub": "",
+      "imageUrl": "http://192.168.11.8:3000/uploads/promos/promo_1769532916676.JPG",
+      "focalX": 1,
+      "focalY": -0.6810428468592536,
+      "linkType": "category",
+      "category": "シャンパン",
+      "brand": null
+    },
+    {
+      "id": "1773918198423",
+      "title": "夜景",
+      "sub": "札幌の夜景",
+      "imageUrl": "http://192.168.11.8:3000/uploads/promos/promo_1773919316249.mp4",
+      "focalX": 0,
+      "focalY": 0,
+      "linkType": "none",
+      "category": null,
+      "brand": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "sets": [
+    {
+      "name": "通常",
+      "sections": {
+        "normal": [
+          {
+            "label": "60分",
+            "price": 6000
+          },
+          {
+            "label": "60分",
+            "price": 7000
+          },
+          {
+            "label": "60分",
+            "price": 5000
+          }
+        ],
+        "agency": [],
+        "extension": []
+      }
+    },
+    {
+      "name": "案内所",
+      "sections": {
+        "normal": [],
+        "agency": [
+          {
+            "label": "60分",
+            "price": 5000
+          }
+        ],
+        "extension": []
+      }
+    },
+    {
+      "name": "VIP",
+      "sections": {
+        "normal": [],
+        "agency": [],
+        "extension": [
+          {
+            "label": "60分",
+            "price": 10000
+          }
+        ]
+      }
+    }
+  ]
+}
